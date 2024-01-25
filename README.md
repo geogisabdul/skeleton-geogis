@@ -1,0 +1,2 @@
+# skeleton-geogis
+template skeleton
